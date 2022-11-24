@@ -1,0 +1,17 @@
+C:\Users\mutlu\source\repos\UserManagement\UserManagement\bin\Debug\net6.0-windows\UserManagement.exe
+C:\Users\mutlu\source\repos\UserManagement\UserManagement\bin\Debug\net6.0-windows\UserManagement.deps.json
+C:\Users\mutlu\source\repos\UserManagement\UserManagement\bin\Debug\net6.0-windows\UserManagement.runtimeconfig.json
+C:\Users\mutlu\source\repos\UserManagement\UserManagement\bin\Debug\net6.0-windows\UserManagement.dll
+C:\Users\mutlu\source\repos\UserManagement\UserManagement\bin\Debug\net6.0-windows\UserManagement.pdb
+C:\Users\mutlu\source\repos\UserManagement\UserManagement\obj\Debug\net6.0-windows\UserManagement.csproj.AssemblyReference.cache
+C:\Users\mutlu\source\repos\UserManagement\UserManagement\obj\Debug\net6.0-windows\UserManagement.Form1.resources
+C:\Users\mutlu\source\repos\UserManagement\UserManagement\obj\Debug\net6.0-windows\UserManagement.csproj.GenerateResource.cache
+C:\Users\mutlu\source\repos\UserManagement\UserManagement\obj\Debug\net6.0-windows\UserManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mutlu\source\repos\UserManagement\UserManagement\obj\Debug\net6.0-windows\UserManagement.AssemblyInfoInputs.cache
+C:\Users\mutlu\source\repos\UserManagement\UserManagement\obj\Debug\net6.0-windows\UserManagement.AssemblyInfo.cs
+C:\Users\mutlu\source\repos\UserManagement\UserManagement\obj\Debug\net6.0-windows\UserManagement.csproj.CoreCompileInputs.cache
+C:\Users\mutlu\source\repos\UserManagement\UserManagement\obj\Debug\net6.0-windows\UserManagement.dll
+C:\Users\mutlu\source\repos\UserManagement\UserManagement\obj\Debug\net6.0-windows\refint\UserManagement.dll
+C:\Users\mutlu\source\repos\UserManagement\UserManagement\obj\Debug\net6.0-windows\UserManagement.pdb
+C:\Users\mutlu\source\repos\UserManagement\UserManagement\obj\Debug\net6.0-windows\UserManagement.genruntimeconfig.cache
+C:\Users\mutlu\source\repos\UserManagement\UserManagement\obj\Debug\net6.0-windows\ref\UserManagement.dll
